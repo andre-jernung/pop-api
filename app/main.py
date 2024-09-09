@@ -8,7 +8,7 @@ from fastapi.responses import HTMLResponse
 
 app = FastAPI(title="DSW POP API")
 
-persons = json.loads(open("testdata.json").read())
+persons = json.loads(open("app/testdata.json").read())
 
 @app.get("/hello")
 def say_hello():
