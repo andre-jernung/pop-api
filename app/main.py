@@ -22,8 +22,7 @@ def read_item(item_id: int, q: Optional[str] = None):
 def search_person(query: str = Query(..., min_length=1)):
     results = []
     for key, value in persons.items():
-        if (query.lower() in key.lower() or
-            query.lower() in value["name"].lower()):
+        if query.lower() in value["name"].lower():
             results.append({"id": key, **value})
     if not results:
         raise HTTPException(status_code=404, detail="No persons found matching the query")
