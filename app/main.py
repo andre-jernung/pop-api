@@ -22,10 +22,11 @@ def search_person(query: str = Query(..., min_length=1)):
 
 @app.get("/get-person")
 def get_person(id: str = Query(..., min_length=1)):
-    results = {}
+    results = []
     for key, value in persons.items():
-        if id.lower() in value["id"].lower():
-            results.update(value)
-        if not results:
-            raise HTTPException(status_code=404, detail="No person found matching the ID")
-        return {results}
+        if id == value["id"]:
+            results.append(value)
+            break
+    if not results:
+        raise HTTPException(status_code=404, detail="No person found matching the ID")
+    return(results)
