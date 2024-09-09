@@ -10,14 +10,6 @@ app = FastAPI(title="DSW POP API")
 
 persons = json.loads(open("app/testdata.json").read())
 
-@app.get("/hello")
-def say_hello():
-    return {"hello": "hello world!"}
-
-@app.get("/person/{person_id}")
-def read_item(item_id: int, q: Optional[str] = None):
-    return {"person_id": item_id, "q": q}
-
 @app.get("/search-person", response_model=Dict[str, List[Dict[str, str]]])
 def search_person(query: str = Query(..., min_length=1)):
     results = []
