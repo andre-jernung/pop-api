@@ -26,4 +26,4 @@ def search_person(query: str = Query(..., min_length=1)):
             results.append({"id": key, **value})
     if not results:
         raise HTTPException(status_code=404, detail="No persons found matching the query")
-    return {"items": results}
+    return {"persons": results}
