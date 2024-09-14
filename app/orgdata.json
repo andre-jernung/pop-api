@@ -1,0 +1,2079 @@
+{
+  "0": {
+    "id": "00",
+    "sv": "Universitetsledningen",
+    "en": "The Vice Chancellors Office"
+  },
+  "1": {
+    "id": "01",
+    "sv": "Naturvetenskapliga fakulteten",
+    "en": "The Faculty of Science"
+  },
+  "2": {
+    "id": "013001",
+    "sv": "Institutionen f\u00f6r matematiska vetenskaper",
+    "en": "Department of Mathematical Sciences",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "3": {
+    "id": "013002",
+    "sv": "Verksamhetsst\u00f6det f\u00f6r matematiska vetenskaper",
+    "en": "Support functions at the Department of Mathematical Sciences",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "4": {
+    "id": "013006",
+    "sv": "Avdelningen f\u00f6r algebra och geometri",
+    "en": "Algebra and Geometry",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "5": {
+    "id": "013007",
+    "sv": "Avdelningen f\u00f6r Analys och sannolikhetsteori",
+    "en": "Analysis and Probability Theory",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "6": {
+    "id": "013008",
+    "sv": "Avdelningen f\u00f6r till\u00e4mpad matematik och statistik",
+    "en": "Applied Mathematics and Statistics",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "7": {
+    "id": "013016",
+    "sv": "Institutionen f\u00f6r kulturv\u00e5rd",
+    "en": "Department of Conservation",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "8": {
+    "id": "013020",
+    "sv": "Institutionen f\u00f6r geovetenskaper",
+    "en": "Department of Earth Sciences",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "9": {
+    "id": "013050",
+    "sv": "Institutionen f\u00f6r fysik",
+    "en": "Department of Physics",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "10": {
+    "id": "013130",
+    "sv": "Institutionen f\u00f6r biologi och milj\u00f6vetenskap",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "11": {
+    "id": "013131",
+    "sv": "Inst f biol o milj\u00f6vet - Zoologen",
+    "en": "Dept of BioEnv - Zoologen",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "12": {
+    "id": "013132",
+    "sv": "Inst f biol o milj\u00f6vet - Botan",
+    "en": "Dept of BioEnv - Botan",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "13": {
+    "id": "013133",
+    "sv": "Inst f biol o milj\u00f6vet - Kristineberg",
+    "en": "Dept of BioEnv - Kristineberg",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "14": {
+    "id": "013140",
+    "sv": "Institutionen f\u00f6r kemi och molekyl\u00e4rbiologi",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "15": {
+    "id": "013146",
+    "sv": "Svenskt NMR-centrum vid GU",
+    "en": "Swedish NMR Centre",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "16": {
+    "id": "013150",
+    "sv": "Institutionen f\u00f6r marina vetenskaper",
+    "en": "Department of Marine Sciences",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "17": {
+    "id": "013157",
+    "sv": "Kristineberg Center f\u00f6r marin forskning och innovation",
+    "en": "Kristineberg Center for Marine Research and Innovation",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "18": {
+    "id": "013159",
+    "sv": "Tj\u00e4rn\u00f6 marina laboratorium",
+    "en": "Tj\u00e4rn\u00f6 Marine Laboratory",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "19": {
+    "id": "013860",
+    "sv": "Sven Lov\u00e9n centrum f\u00f6r marin infrastruktur",
+    "en": "Sven Lov\u00e9n Centre for Marine Infrastructure",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "20": {
+    "id": "013909",
+    "sv": "Naturvetenskapliga fakultetsstyrelsen",
+    "en": "The Faculty of Science",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "21": {
+    "id": "013950",
+    "sv": "Fakultetskansliet f\u00f6r naturvetenskap",
+    "en": "Faculty Office for Science",
+    "parentid": "01",
+    "parentsv": "Naturvetenskapliga fakulteten",
+    "parenten": "The Faculty of Science"
+  },
+  "22": {
+    "id": "02",
+    "sv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "en": "Faculty of Social Sciences"
+  },
+  "23": {
+    "id": "022000",
+    "sv": "Samh\u00e4llsvetenskapliga fakultetsstyrelsen",
+    "en": "Faculty Board of Social Sciences",
+    "parentid": "02",
+    "parentsv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "parenten": "Faculty of Social Sciences"
+  },
+  "24": {
+    "id": "022001",
+    "sv": "Samh\u00e4llsvetenskapliga fakultetskansliet",
+    "en": "Faculty Office of Social Sciences",
+    "parentid": "02",
+    "parentsv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "parenten": "Faculty of Social Sciences"
+  },
+  "25": {
+    "id": "022080",
+    "sv": "Institutionen f\u00f6r globala studier",
+    "en": "School of Global Studies",
+    "parentid": "02",
+    "parentsv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "parenten": "Faculty of Social Sciences"
+  },
+  "26": {
+    "id": "022090",
+    "sv": "SOM-institutet",
+    "en": "SOM Institute",
+    "parentid": "02",
+    "parentsv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "parenten": "Faculty of Social Sciences"
+  },
+  "27": {
+    "id": "022420",
+    "sv": "F\u00f6rvaltningsh\u00f6gskolan",
+    "en": "School of Public Administration",
+    "parentid": "02",
+    "parentsv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "parenten": "Faculty of Social Sciences"
+  },
+  "28": {
+    "id": "022430",
+    "sv": "Institutionen f\u00f6r journalistik, medier och kommunikation JMG",
+    "en": "Journalism Media and Communication JMG",
+    "parentid": "02",
+    "parentsv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "parenten": "Faculty of Social Sciences"
+  },
+  "29": {
+    "id": "022440",
+    "sv": "Psykologiska institutionen",
+    "en": "Department of Psychology",
+    "parentid": "02",
+    "parentsv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "parenten": "Faculty of Social Sciences"
+  },
+  "30": {
+    "id": "022470",
+    "sv": "Institutionen f\u00f6r socialt arbete",
+    "en": "Department of Social Work",
+    "parentid": "02",
+    "parentsv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "parenten": "Faculty of Social Sciences"
+  },
+  "31": {
+    "id": "022480",
+    "sv": "Institutionen f\u00f6r sociologi och arbetsvetenskap",
+    "en": "Department of Sociology and Work Science",
+    "parentid": "02",
+    "parentsv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "parenten": "Faculty of Social Sciences"
+  },
+  "32": {
+    "id": "022490",
+    "sv": "Statsvetenskapliga institutionen",
+    "en": "Department of Political Science",
+    "parentid": "02",
+    "parentsv": "Samh\u00e4llsvetenskapliga fakulteten",
+    "parenten": "Faculty of Social Sciences"
+  },
+  "33": {
+    "id": "03",
+    "sv": "Sahlgrenska akademin",
+    "en": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "34": {
+    "id": "035000",
+    "sv": "Sahlgrenska akademin, Gemensamt",
+    "en": "Sahlgrenska Academy at University of Gothenburg",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "35": {
+    "id": "035001",
+    "sv": "Sahlgrenska akademins kansli",
+    "en": "Sahlgrenska Academy Office",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "36": {
+    "id": "035100",
+    "sv": "Institutionen f\u00f6r odontologi",
+    "en": "Institute of Odontology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "37": {
+    "id": "035110",
+    "sv": "Sektion 1 - odontologi",
+    "en": "Odontology Section 1",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "38": {
+    "id": "035120",
+    "sv": "Sektion 2 - odontologi",
+    "en": "Odontology Section 2",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "39": {
+    "id": "035130",
+    "sv": "Sektion 3 - odontologi",
+    "en": "Odontology Section 3",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "40": {
+    "id": "035200",
+    "sv": "Institutionen f\u00f6r v\u00e5rdvetenskap och h\u00e4lsa",
+    "en": "Institute of Health and Care Sciences",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "41": {
+    "id": "035201",
+    "sv": "V\u00e5rd vid l\u00e5ngvariga tillst\u00e5nd",
+    "en": "Care in  Long-term Conditions",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "42": {
+    "id": "035202",
+    "sv": "Livssammanhang och h\u00e4lsofr\u00e4mjande v\u00e5rd",
+    "en": "The Life Context and Health Promotion",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "43": {
+    "id": "035203",
+    "sv": "Diagnostik och v\u00e5rd vid akuta och kritiska tillst\u00e5nd",
+    "en": "Diagnostics, Acute and Critical Care",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "44": {
+    "id": "035204",
+    "sv": "L\u00e4rande och ledarskap f\u00f6r h\u00e4lsoprofessioner",
+    "en": "Learning and Leadership for Health Care Professionals",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "45": {
+    "id": "035205",
+    "sv": "Reproduktiv och perinatal h\u00e4lsa",
+    "en": "Reproductive and perinatal health",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "46": {
+    "id": "035206",
+    "sv": "KTC",
+    "en": "KTC",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "47": {
+    "id": "035208",
+    "sv": "Administrativa enheten",
+    "en": "Administrative unit",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "48": {
+    "id": "035300",
+    "sv": "Institutionen f\u00f6r biomedicin",
+    "en": "Institute of Biomedicine",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "49": {
+    "id": "035310",
+    "sv": "Avd f\u00f6r infektionssjukdomar",
+    "en": "Department of Infectious Diseases",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "50": {
+    "id": "035320",
+    "sv": "Avd f\u00f6r mikrobiologi och immunologi",
+    "en": "Department of Microbiology and Immunology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "51": {
+    "id": "035330",
+    "sv": "Avd f\u00f6r patologi och genetik",
+    "en": "Department of Pathology and Genetics",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "52": {
+    "id": "035340",
+    "sv": "Avd f\u00f6r klin kemi och transfusionsmedicin",
+    "en": "Department of Clinical Chemistry and Transfusion Medicine",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "53": {
+    "id": "035360",
+    "sv": "Avd f\u00f6r medicinsk kemi och cellbiologi",
+    "en": "Department of Medical Biochemistry and Cell biology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "54": {
+    "id": "035381",
+    "sv": "Avdelningen f\u00f6r Laboratoriemedicin",
+    "en": "Department of Laboratory Medicine",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "55": {
+    "id": "035400",
+    "sv": "Institutionen f\u00f6r neurovetenskap och fysiologi",
+    "en": "Institute of Neuroscience and Physiology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "56": {
+    "id": "035410",
+    "sv": "Sektionen f\u00f6r fysiologi",
+    "en": "Department of Physiology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "57": {
+    "id": "035420",
+    "sv": "Sektionen f\u00f6r farmakologi",
+    "en": "Department of Pharmacology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "58": {
+    "id": "035430",
+    "sv": "Sektionen f\u00f6r klinisk neurovetenskap",
+    "en": "Department of Clinical Neuroscience",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "59": {
+    "id": "035440",
+    "sv": "Sektionen f\u00f6r psykiatri och neurokemi",
+    "en": "Department of Psychiatry and Neurochemistry",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "60": {
+    "id": "035450",
+    "sv": "Sektionen f\u00f6r h\u00e4lsa och rehabilitering",
+    "en": "Department of Health and Rehabilitation",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "61": {
+    "id": "035500",
+    "sv": "Institutionen f\u00f6r medicin",
+    "en": "Institute of Medicine",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "62": {
+    "id": "035501",
+    "sv": "Institutionen f\u00f6r medicin, Administrativ enhet",
+    "en": "Institute of Medicine, Administrative unit",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "63": {
+    "id": "035510",
+    "sv": "Avd f\u00f6r samh\u00e4llsmedicin och folkh\u00e4lsa",
+    "en": "School of Public Health and Community Medicine",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "64": {
+    "id": "035530",
+    "sv": "Avd f\u00f6r molekyl\u00e4r och klinisk medicin",
+    "en": "Department of Molecular and Clinical Medicine",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "65": {
+    "id": "035540",
+    "sv": "Avd f\u00f6r reumatologi och inflammationsforskning",
+    "en": "Department of Rheumatology and Inflammation Research",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "66": {
+    "id": "035550",
+    "sv": "Avd f\u00f6r inv\u00e4rtesmedicin och klinisk nutrition",
+    "en": "Department of Internal Medicine and Clinical Nutrition",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "67": {
+    "id": "035600",
+    "sv": "Institutionen f\u00f6r kliniska vetenskaper",
+    "en": "Institute of Clinical Sciences",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "68": {
+    "id": "035611",
+    "sv": "Avd f\u00f6r obstetrik och gynekologi",
+    "en": "Department of Obstetrics and Gynecology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "69": {
+    "id": "035612",
+    "sv": "Avd f\u00f6r pediatrik",
+    "en": "Department of Pediatrics",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "70": {
+    "id": "035614",
+    "sv": "Avd f\u00f6r dermatologi och venereologi",
+    "en": "Department of Dermatology and Venereology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "71": {
+    "id": "035615",
+    "sv": "Avd f\u00f6r radiologi",
+    "en": "Department of Radiology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "72": {
+    "id": "035616",
+    "sv": "Avd f\u00f6r onkologi",
+    "en": "Department of Oncology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "73": {
+    "id": "035617",
+    "sv": "Avd f\u00f6r medicinsk str\u00e5lningsvetenskap",
+    "en": "Department of  Medical Radiation Sciences",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "74": {
+    "id": "035618",
+    "sv": "Avd f\u00f6r \u00f6ron-, n\u00e4s- och halssjukdomar",
+    "en": "Department of Otorhinolaryngology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "75": {
+    "id": "035619",
+    "sv": "Informationscentrum f\u00f6r ovanliga diagnoser",
+    "en": "Swedish Infocenter for Rare Diseases",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "76": {
+    "id": "035621",
+    "sv": "Avd f\u00f6r anestesiologi och intensivv\u00e5rd",
+    "en": "Department of Anesthesiology and Intensive Care",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "77": {
+    "id": "035622",
+    "sv": "Avd f\u00f6r biomaterialvetenskap",
+    "en": "Department of Biomaterials",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "78": {
+    "id": "035623",
+    "sv": "Avd f\u00f6r kirurgi",
+    "en": "Department of Surgery",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "79": {
+    "id": "035624",
+    "sv": "Avd f\u00f6r ortopedi",
+    "en": "Department of Orthopaedics",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "80": {
+    "id": "035625",
+    "sv": "Avd f\u00f6r urologi",
+    "en": "Department of Urology",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "81": {
+    "id": "035626",
+    "sv": "Avd f\u00f6r plastikkirurgi",
+    "en": "Department of Plastic Surgery",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "82": {
+    "id": "035800",
+    "sv": "Core Facilities vid Sahlgrenska Akademin",
+    "en": "Core Facilities at Sahlgrenska Academy",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "83": {
+    "id": "035801",
+    "sv": "Experimentell Biomedicin",
+    "en": "Experimental Biomedicine",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "84": {
+    "id": "035803",
+    "sv": "Sambio Core Facilities",
+    "en": "Core facilities",
+    "parentid": "03",
+    "parentsv": "Sahlgrenska akademin",
+    "parenten": "Sahlgrenska Academy at University of Gothenburg"
+  },
+  "85": {
+    "id": "04",
+    "sv": "Utbildningsvetenskapliga fakulteten",
+    "en": "Faculty of Education"
+  },
+  "86": {
+    "id": "042720",
+    "sv": "Utbildningsvetenskapliga fakultetskansliet",
+    "en": "Faculty of Education, Faculty Office",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "87": {
+    "id": "042725",
+    "sv": "PIL Pedagogisk utveckling och interaktivt l\u00e4rande",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "88": {
+    "id": "042726",
+    "sv": "Enheten f\u00f6r akademiskt spr\u00e5k",
+    "en": "Unit for Academic Language",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "89": {
+    "id": "042910",
+    "sv": "Institutionen f\u00f6r pedagogik och specialpedagogik",
+    "en": "Department of Education and Special Education",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "90": {
+    "id": "042920",
+    "sv": "Institutionen f\u00f6r pedagogik, kommunikation och l\u00e4rande",
+    "en": "Department of Education, Communication and Learning",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "91": {
+    "id": "042930",
+    "sv": "Institutionen f\u00f6r didaktik och pedagogisk profession",
+    "en": "Department of Pedagogical, Curricular and Professional Studies",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "92": {
+    "id": "042931",
+    "sv": "IDPP Ledning",
+    "en": "Management",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "93": {
+    "id": "042932",
+    "sv": "IDPP Administration",
+    "en": "Administration",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "94": {
+    "id": "042933",
+    "sv": "Avdelningen allm\u00e4n didaktik och pedagogiskt arbete",
+    "en": "Unit for General Didactics and Pedagogic Work",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "95": {
+    "id": "042934",
+    "sv": "Avdelningen \u00e4mnesdidaktik med inriktning naturvetenskap och teknik",
+    "en": "Unit for Subject Matter Education with specialization in Science and Technology Education",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "96": {
+    "id": "042935",
+    "sv": "Avdelningen \u00e4mnesdidaktik med inriktning matematik",
+    "en": "Unit for Subject Matter Education with specialization in Mathematic Education",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "97": {
+    "id": "042936",
+    "sv": "Avdelningen \u00e4mnesdidaktik med inriktning samh\u00e4llsvetenskap",
+    "en": "Unit for Subject Matter Education with specialization in Social Studies Education",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "98": {
+    "id": "042937",
+    "sv": "Avdelningen \u00e4mnesdidaktik med inriktning svenska",
+    "en": "Unit for Subject Matter Education with specialization in Swedish Education",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "99": {
+    "id": "042940",
+    "sv": "Institutionen f\u00f6r kost- och idrottsvetenskap",
+    "en": "Department of Food and Nutrition and Sport Science",
+    "parentid": "04",
+    "parentsv": "Utbildningsvetenskapliga fakulteten",
+    "parenten": "Faculty of Education"
+  },
+  "100": {
+    "id": "05",
+    "sv": "Humanistiska fakulteten",
+    "en": "Faculty of Humanities"
+  },
+  "101": {
+    "id": "051100",
+    "sv": "Institutionen f\u00f6r historiska studier",
+    "en": "Department of Historical Studies",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "102": {
+    "id": "051120",
+    "sv": "Institutionen f\u00f6r kulturvetenskaper",
+    "en": "Department. of Cultural Sciences",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "103": {
+    "id": "051121",
+    "sv": "Avdelningen f\u00f6r estetik",
+    "en": "Aesthetics Unit",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "104": {
+    "id": "051122",
+    "sv": "Avdelningen f\u00f6r genusvetenskap",
+    "en": "Gender Studies Unit",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "105": {
+    "id": "051123",
+    "sv": "Avdelningen f\u00f6r kultur",
+    "en": "Culture Unit",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "106": {
+    "id": "051124",
+    "sv": "Kulturvetenskaper Administration",
+    "en": "Cultural Sciences Administration",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "107": {
+    "id": "051140",
+    "sv": "Institutionen f\u00f6r filosofi, lingvistik och vetenskapsteori",
+    "en": "Department of Philosophy, Linguistics, Theory of Science",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "108": {
+    "id": "051141",
+    "sv": "Avdelningen f\u00f6r verksamhetsst\u00f6d",
+    "en": "Administrative unit",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "109": {
+    "id": "051142",
+    "sv": "Avdelningen f\u00f6r lingvistik och vetenskapsteori",
+    "en": "Linguistics and Theory of Science unit",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "110": {
+    "id": "051143",
+    "sv": "Avdelningen f\u00f6r filosofi och logik",
+    "en": "Philosophy and Logic unit",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "111": {
+    "id": "051150",
+    "sv": "Institutionen f\u00f6r litteratur, id\u00e9historia och religion",
+    "en": "Department of Literature, History of Ideas, and Religion",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "112": {
+    "id": "051160",
+    "sv": "Institutionen f\u00f6r spr\u00e5k och litteraturer",
+    "en": "Department of Languages and Literatures",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "113": {
+    "id": "051170",
+    "sv": "Institutionen f\u00f6r svenska, flerspr\u00e5kighet och spr\u00e5kteknologi",
+    "en": "Department of Swedish, multilingualism, language technology",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "114": {
+    "id": "051930",
+    "sv": "Humanistiska fakultetskansliet",
+    "en": "Humanities Faculty Office",
+    "parentid": "05",
+    "parentsv": "Humanistiska fakulteten",
+    "parenten": "Faculty of Humanities"
+  },
+  "115": {
+    "id": "07",
+    "sv": "G\u00f6teborgs universitetsbibliotek",
+    "en": "Gothenburg University Library"
+  },
+  "116": {
+    "id": "078000",
+    "sv": "\u00d6verbibliotekarien",
+    "en": "Library Director",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "117": {
+    "id": "078001",
+    "sv": "Bibliotekskansliet",
+    "en": "Library Office",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "118": {
+    "id": "078003",
+    "sv": "Digitala tj\u00e4nster",
+    "en": "Digital Services",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "119": {
+    "id": "078004",
+    "sv": "Team Digitalisering, Digitala tj\u00e4nster",
+    "en": "Digitisation team, Digital Services",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "120": {
+    "id": "078005",
+    "sv": "Team e-resurser och s\u00f6ksystem, Digitala Tj\u00e4nster",
+    "en": "Team e-resources and library search systems, Digital Services",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "121": {
+    "id": "078006",
+    "sv": "Team IT-utveckling, Digitala tj\u00e4nster",
+    "en": "IT-Development and Operations team, Digital Services",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "122": {
+    "id": "078007",
+    "sv": "Team Publicering och bibliometri, Digitala tj\u00e4nster",
+    "en": "Publishing and Bibliometric Services team, Digital Services",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "123": {
+    "id": "078008",
+    "sv": "Team webb och kommunikation, Digitala Tj\u00e4nster",
+    "en": "Team web and communication, Digital Services",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "124": {
+    "id": "078100",
+    "sv": "Humanistiska biblioteken",
+    "en": "Humanities Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "125": {
+    "id": "078101",
+    "sv": "Team Anv\u00e4ndarservice, Humanistiska biblioteken",
+    "en": "Team User Services, Humanities Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "126": {
+    "id": "078102",
+    "sv": "Team Undervisning, Humanistiska biblioteken",
+    "en": "Education Team, Humanities Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "127": {
+    "id": "078103",
+    "sv": "Team F\u00f6rv\u00e4rv, Humanistiska biblioteken",
+    "en": "Acquisitions Team, Humanities Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "128": {
+    "id": "078104",
+    "sv": "Team Katalog, Humanistiska biblioteken",
+    "en": "Cataloguing Team, Humanities Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "129": {
+    "id": "078105",
+    "sv": "KvinnSam, Humanistiska biblioteken",
+    "en": "KvinnSam, Humanities Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "130": {
+    "id": "078112",
+    "sv": "Lokal- och transportservice, Humanistiska biblioteken",
+    "en": "Facility and Transportation Services, Humanities Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "131": {
+    "id": "078113",
+    "sv": "Kulturarv, Humanistiska biblioteken",
+    "en": "Cultural Heritage, Humanities Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "132": {
+    "id": "078200",
+    "sv": "Biomedicinska biblioteken",
+    "en": "Biomedical Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "133": {
+    "id": "078201",
+    "sv": "Team Anv\u00e4ndarservice, Biomedicinska biblioteken",
+    "en": "Team User Services, Biomedical Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "134": {
+    "id": "078202",
+    "sv": "Team Undervisning, Biomedicinska biblioteken",
+    "en": "Education Team, Biomedical Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "135": {
+    "id": "078203",
+    "sv": "Team Media, Biomedicinska biblioteken",
+    "en": "Media Team, Biomedical Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "136": {
+    "id": "078204",
+    "sv": "Team Forskarst\u00f6d, Biomedicinska biblioteken",
+    "en": "Team Researcher Support, Biomedical Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "137": {
+    "id": "078300",
+    "sv": "Samh\u00e4llsvetenskapliga biblioteken",
+    "en": "Social Sciences Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "138": {
+    "id": "078301",
+    "sv": "Team Anv\u00e4ndarservice, Samh\u00e4llsvetenskapliga biblioteken",
+    "en": "Team User Services, Social Sciences Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "139": {
+    "id": "078302",
+    "sv": "Team Undervisning, Samh\u00e4llsvetenskapliga biblioteken",
+    "en": "Education Team, Social Sciences Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "140": {
+    "id": "078303",
+    "sv": "Team Media, Samh\u00e4llsvetenskapliga biblioteken",
+    "en": "Media Team, Social Sciences Libraries",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "141": {
+    "id": "078304",
+    "sv": "Studentmedarbetare",
+    "en": "Student Employees",
+    "parentid": "07",
+    "parentsv": "G\u00f6teborgs universitetsbibliotek",
+    "parenten": "Gothenburg University Library"
+  },
+  "142": {
+    "id": "08",
+    "sv": "Konstn\u00e4rliga fakulteten",
+    "en": "The Artistic Faculty"
+  },
+  "143": {
+    "id": "086000",
+    "sv": "Konstn\u00e4rliga fakultetsstyrelsen",
+    "en": "The Artistic Faculty Board",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "144": {
+    "id": "086120",
+    "sv": "H\u00f6gskolan f\u00f6r scen och musik",
+    "en": "Academy of Music and Drama",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "145": {
+    "id": "086121",
+    "sv": "Enheten f\u00f6r musik",
+    "en": "Music",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "146": {
+    "id": "086122",
+    "sv": "Enheten f\u00f6r klassisk musik och kyrkomusik",
+    "en": "Classical Music and Church Music",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "147": {
+    "id": "086123",
+    "sv": "Enheten f\u00f6r scenkonst",
+    "en": "Performing Arts",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "148": {
+    "id": "086124",
+    "sv": "Enheten f\u00f6r pedagogik: musik, dans och teater",
+    "en": "Pedagogy: Music, Dance and Drama",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "149": {
+    "id": "086125",
+    "sv": "Tekniskt st\u00f6d H\u00f6gskolan f\u00f6r scen och musik",
+    "en": "Technical support",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "150": {
+    "id": "086126",
+    "sv": "Administrativt st\u00f6d H\u00f6gskolan f\u00f6r scen och musik",
+    "en": "Administrative support",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "151": {
+    "id": "086700",
+    "sv": "HDK-Valand - H\u00f6gskolan f\u00f6r konst och design",
+    "en": "HDK-Valand - Academy of Art and Design",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "152": {
+    "id": "086701",
+    "sv": "Enheten f\u00f6r Design",
+    "en": "The Design Unit",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "153": {
+    "id": "086702",
+    "sv": "Enheten f\u00f6r design och konsthantverk Steneby",
+    "en": "The Design and Crafts Steneby Unit",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "154": {
+    "id": "086703",
+    "sv": "Enheten f\u00f6r konsthantverk och fri konst",
+    "en": "The Crafts and Fine Art Unit",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "155": {
+    "id": "086704",
+    "sv": "Enheten f\u00f6r film, fotografi och litter\u00e4r gestaltning",
+    "en": "The Film, Photography and Literary Composition Unit",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "156": {
+    "id": "086705",
+    "sv": "Enheten f\u00f6r pedagogik: Bild och sl\u00f6jd",
+    "en": "The Pedagogy Unit: Visual Art and Sloyd",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "157": {
+    "id": "086706",
+    "sv": "Tekniskt st\u00f6d",
+    "en": "Technical support",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "158": {
+    "id": "086707",
+    "sv": "Administrativt st\u00f6d",
+    "en": "Administrative support",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "159": {
+    "id": "086900",
+    "sv": "Konstn\u00e4rliga fakultetskansliet",
+    "en": "The Artistic Faculty Office",
+    "parentid": "08",
+    "parentsv": "Konstn\u00e4rliga fakulteten",
+    "parenten": "The Artistic Faculty"
+  },
+  "160": {
+    "id": "09",
+    "sv": "Handelsh\u00f6gskolan",
+    "en": "School Business, Economics and Law"
+  },
+  "161": {
+    "id": "092200",
+    "sv": "Handelsh\u00f6gskolans fakultetsstyrelse",
+    "en": "School business, economics and law",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "162": {
+    "id": "092209",
+    "sv": "Graduate School, GS",
+    "en": "Graduate school",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "163": {
+    "id": "092211",
+    "sv": "Institutionen f\u00f6r ekonomi och samh\u00e4lle",
+    "en": "Department of Economy and Society",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "164": {
+    "id": "092212",
+    "sv": "Avdelningen f\u00f6r ekonomisk historia",
+    "en": "Economic History",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "165": {
+    "id": "092213",
+    "sv": "Avdelningen f\u00f6r innovation och entrepren\u00f6rskap",
+    "en": "Unit for Innovation and Entrepreneurship",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "166": {
+    "id": "092214",
+    "sv": "Avdelningen f\u00f6r kulturgeografi",
+    "en": "Human Geography",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "167": {
+    "id": "092220",
+    "sv": "F\u00f6retagsekonomiska institutionen",
+    "en": "Department of Business Administration",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "168": {
+    "id": "092250",
+    "sv": "Institutionen f\u00f6r nationalekonomi med statistik",
+    "en": "Department of Economics",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "169": {
+    "id": "092260",
+    "sv": "Juridiska institutionen",
+    "en": "Department of Law",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "170": {
+    "id": "092281",
+    "sv": "Gothenburg Research Institute, GRI",
+    "en": "Gothenburg Research Institute",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "171": {
+    "id": "092287",
+    "sv": "Environment for Development",
+    "en": "Environment for Development",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "172": {
+    "id": "092290",
+    "sv": "Handelsh\u00f6gskolans fakultetskansli",
+    "en": "School of Business, Economics and Law",
+    "parentid": "09",
+    "parentsv": "Handelsh\u00f6gskolan",
+    "parenten": "School Business, Economics and Law"
+  },
+  "173": {
+    "id": "10",
+    "sv": "IT-fakulteten",
+    "en": "IT Faculty"
+  },
+  "174": {
+    "id": "107800",
+    "sv": "IT-fakultetsn\u00e4mnden",
+    "en": "IT Faculty",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "175": {
+    "id": "107801",
+    "sv": "IT-fakultetens kansli",
+    "en": "IT Faculty",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "176": {
+    "id": "107810",
+    "sv": "Institutionen f\u00f6r till\u00e4mpad informationsteknologi",
+    "en": "Department of Applied Information Technology",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "177": {
+    "id": "107811",
+    "sv": "Inst till\u00e4mpad IT, avd verksamhetsst\u00f6d",
+    "en": "Dept. Of Applied IT, Division of Professional support",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "178": {
+    "id": "107812",
+    "sv": "Inst till\u00e4mpad IT, avd f\u00f6r informatik",
+    "en": "Dept. of Applied IT, Division of Informatics",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "179": {
+    "id": "107813",
+    "sv": "Inst till\u00e4mpad IT, avd f\u00f6r l\u00e4rande, kommunikation och IT",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "180": {
+    "id": "107815",
+    "sv": "Inst till\u00e4mpad IT, avd f\u00f6r kognition och kommunikation",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "181": {
+    "id": "107816",
+    "sv": "Inst till\u00e4mpad IT, avd f\u00f6r m\u00e4nniska-datorinteraktion",
+    "en": "Dept. Of Applied IT, Division of Human computer interaction",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "182": {
+    "id": "107820",
+    "sv": "Institutionen f\u00f6r data- och informationsteknik",
+    "en": "Department of Computer Science and Engineering",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "183": {
+    "id": "107822",
+    "sv": "Datorteknik",
+    "en": "",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "185": {
+    "id": "107824",
+    "sv": "Avd f\u00f6r Datavetenskap",
+    "en": "Department of Computer Science and Engineering",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "186": {
+    "id": "107825",
+    "sv": "Avd F\u00f6r Programvaruteknik",
+    "en": "Department of Computer Science and Engineering",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "188": {
+    "id": "107827",
+    "sv": "Software Engineering",
+    "en": "Department of Computer Science and Engineering",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "192": {
+    "id": "107832",
+    "sv": "Computer Science and Engineering",
+    "en": "Computer Science and Engineering",
+    "parentid": "10",
+    "parentsv": "IT-fakulteten",
+    "parenten": "IT Faculty"
+  },
+  "196": {
+    "id": "11",
+    "sv": "Nationellt Centrum f\u00f6r Matematikutbildning, NCM",
+    "en": "NCM"
+  },
+  "197": {
+    "id": "119025",
+    "sv": "Nationellt Centrum f\u00f6r Matematikutbildning, NCM",
+    "en": "NCM",
+    "parentid": "11",
+    "parentsv": "Nationellt Centrum f\u00f6r Matematikutbildning, NCM",
+    "parenten": "NCM"
+  },
+  "198": {
+    "id": "14",
+    "sv": "Havsmilj\u00f6institutet",
+    "en": "Swedish Institute for the Marine Environment"
+  },
+  "199": {
+    "id": "149029",
+    "sv": "Havsmilj\u00f6institutet",
+    "en": "Swedish Institute for the Marine Environment",
+    "parentid": "14",
+    "parentsv": "Havsmilj\u00f6institutet",
+    "parenten": "Swedish Institute for the Marine Environment"
+  },
+  "200": {
+    "id": "15",
+    "sv": "Nationella sekretariatet f\u00f6r genusforskning",
+    "en": "Swedish Secretariat for Gender Research"
+  },
+  "201": {
+    "id": "159028",
+    "sv": "Nationella sekretariatet f\u00f6r genusforskning",
+    "en": "Swedish Secretariat for Gender Research",
+    "parentid": "15",
+    "parentsv": "Nationella sekretariatet f\u00f6r genusforskning",
+    "parenten": "Swedish Secretariat for Gender Research"
+  },
+  "202": {
+    "id": "16",
+    "sv": "Svensk Nationell Datatj\u00e4nst, SND",
+    "en": "Swedish National Data Service, SND"
+  },
+  "203": {
+    "id": "169030",
+    "sv": "Svensk Nationell Datatj\u00e4nst, SND",
+    "en": "SND",
+    "parentid": "16",
+    "parentsv": "Svensk Nationell Datatj\u00e4nst, SND",
+    "parenten": "Swedish National Data Service, SND"
+  },
+  "204": {
+    "id": "17",
+    "sv": "Nordicom",
+    "en": "Nordicom"
+  },
+  "205": {
+    "id": "179031",
+    "sv": "Nordicom",
+    "en": "Nordicom",
+    "parentid": "17",
+    "parentsv": "Nordicom",
+    "parenten": "Nordicom"
+  },
+  "206": {
+    "id": "18",
+    "sv": "Wexsus, V\u00e4stsveriges nexus f\u00f6r h\u00e5llbar utveckling",
+    "en": "Wexsus, West Sweden nexus for sustainable development"
+  },
+  "207": {
+    "id": "189006",
+    "sv": "Wexsus, V\u00e4stsveriges nexus f\u00f6r h\u00e5llbar utveckling, adm",
+    "en": "Wexsus, West Sweden nexus for sustainable development, adm",
+    "parentid": "18",
+    "parentsv": "Wexsus, V\u00e4stsveriges nexus f\u00f6r h\u00e5llbar utveckling",
+    "parenten": "Wexsus, West Sweden nexus for sustainable development"
+  },
+  "208": {
+    "id": "19",
+    "sv": "Segerstedtinstitutet",
+    "en": "Segerstedtinstitutet"
+  },
+  "209": {
+    "id": "199033",
+    "sv": "Segerstedtinstitutet",
+    "en": "Segerstedtinstitutet",
+    "parentid": "19",
+    "parentsv": "Segerstedtinstitutet",
+    "parenten": "Segerstedtinstitutet"
+  },
+  "210": {
+    "id": "20000",
+    "sv": "G\u00f6teborgs universitet",
+    "en": "University of Gothenburg",
+    "parentid": "20"
+  },
+  "211": {
+    "id": "25",
+    "sv": "Test",
+    "en": ""
+  },
+  "212": {
+    "id": "259990",
+    "sv": "Testinstitution2",
+    "en": "Test department",
+    "parentid": "25",
+    "parentsv": "Test",
+    "parenten": ""
+  },
+  "213": {
+    "id": "259991",
+    "sv": "Testavdelning",
+    "en": "Test section",
+    "parentid": "25",
+    "parentsv": "Test",
+    "parenten": ""
+  },
+  "214": {
+    "id": "30",
+    "sv": "Studentk\u00e5rer",
+    "en": "Student Union"
+  },
+  "215": {
+    "id": "300004",
+    "sv": "Studentk\u00e5r Spionen",
+    "en": "Student Union Spionen",
+    "parentid": "30",
+    "parentsv": "Studentk\u00e5rer",
+    "parenten": "Student Union"
+  },
+  "216": {
+    "id": "81",
+    "sv": "Alla arvodister",
+    "en": ""
+  },
+  "217": {
+    "id": "8888",
+    "sv": "Ok\u00e4nd institution",
+    "en": "Unknown department",
+    "parentid": "88"
+  },
+  "218": {
+    "id": "90",
+    "sv": "Gemensamma f\u00f6rvaltningen",
+    "en": "University Administration"
+  },
+  "219": {
+    "id": "909151",
+    "sv": "Ekonomienheten",
+    "en": "Finance",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "220": {
+    "id": "909152",
+    "sv": "Personalenheten",
+    "en": "Human Resources",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "221": {
+    "id": "909155",
+    "sv": "Sektionen f\u00f6r arbetsgivarfr\u00e5gor",
+    "en": "Employer Issues",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "222": {
+    "id": "909157",
+    "sv": "Sektionen f\u00f6r likabehandling, kompetensutveckling och arbetsmilj\u00f6arbete",
+    "en": "Work Environment and Equal Treatment",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "223": {
+    "id": "909158",
+    "sv": "Sektionen f\u00f6r personalekonomi och systemst\u00f6d",
+    "en": "Section of Staff Economics and System Support",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "224": {
+    "id": "909160",
+    "sv": "Internrevisionen",
+    "en": "Internal Audit",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "225": {
+    "id": "909170",
+    "sv": "Serviceenheten",
+    "en": "Facility Services",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "226": {
+    "id": "909171",
+    "sv": "Servicecenter",
+    "en": "Servicecenter",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "227": {
+    "id": "909172",
+    "sv": "Sektionen f\u00f6r medieteknik",
+    "en": "Media Technology",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "228": {
+    "id": "909173",
+    "sv": "Sektionen f\u00f6r M\u00f6tesservice",
+    "en": "Conference Centre",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "229": {
+    "id": "909175",
+    "sv": "Welcome Services",
+    "en": "Welcome Services",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "230": {
+    "id": "909180",
+    "sv": "Kommunikationsenheten",
+    "en": "Communication Unit",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "231": {
+    "id": "909185",
+    "sv": "Sektionen f\u00f6r redaktionellt inneh\u00e5ll, evenemang och studentkommunikation",
+    "en": "Section of Content, Events and Student Communication",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "232": {
+    "id": "909186",
+    "sv": "Sektionen f\u00f6r dialog, design och digitala medier",
+    "en": "Section of Dialogue, Design and Digital Media",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "233": {
+    "id": "909190",
+    "sv": "GU fastighet och h\u00e5llbar utveckling",
+    "en": "Property and sustainable development",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "234": {
+    "id": "909191",
+    "sv": "GU fastighet stab",
+    "en": "Property office",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "235": {
+    "id": "909192",
+    "sv": "Sektionen f\u00f6r lokalsamordning",
+    "en": "Coordination",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "236": {
+    "id": "909193",
+    "sv": "Sektionen f\u00f6r lokalplanering",
+    "en": "Planning",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "237": {
+    "id": "909194",
+    "sv": "Sektionen f\u00f6r h\u00e5llbarhet",
+    "en": "Sustainability",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "238": {
+    "id": "909251",
+    "sv": "IT-st\u00f6d till forskning och utbildning",
+    "en": "IT for Research and Education",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "239": {
+    "id": "909255",
+    "sv": "IT-enheten",
+    "en": "IT",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "240": {
+    "id": "909256",
+    "sv": "IT-infrastruktur",
+    "en": "IT Operations",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "241": {
+    "id": "909257",
+    "sv": "IT-support",
+    "en": "Service Desk and Operation Bridge",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "242": {
+    "id": "909258",
+    "sv": "IT-s\u00e4kerhet, f\u00f6rvaltning och avtal",
+    "en": "IT-s\u00e4kerhet, f\u00f6rvaltning och avtal",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "243": {
+    "id": "909259",
+    "sv": "IT-Utveckling",
+    "en": "IT-System Development",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "244": {
+    "id": "909261",
+    "sv": "Sektionen f\u00f6r Digital arbetsplats",
+    "en": "The Section for Digital workplace",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "245": {
+    "id": "909262",
+    "sv": "Sektionen f\u00f6r st\u00f6d till digitalisering",
+    "en": "The section for support for digitalisation",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "246": {
+    "id": "909270",
+    "sv": "Utbildningsenheten",
+    "en": "Educational Affairs",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "247": {
+    "id": "909271",
+    "sv": "Sektionen f\u00f6r examen",
+    "en": "Section of Degrees",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "248": {
+    "id": "909272",
+    "sv": "Sektionen f\u00f6r antagning",
+    "en": "Admission",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "249": {
+    "id": "909273",
+    "sv": "Sektionen f\u00f6r tentamen",
+    "en": "Section for Examination Services",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "250": {
+    "id": "909274",
+    "sv": "Sektionen f\u00f6r studieadministrativa system",
+    "en": "Student Records",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "251": {
+    "id": "909276",
+    "sv": "Sektionen f\u00f6r student- och utbildningsst\u00f6d",
+    "en": "Student and Educational Support",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "252": {
+    "id": "909410",
+    "sv": "Enheten f\u00f6r juridik och informationsf\u00f6rvaltning",
+    "en": "Legal and information management unit",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "253": {
+    "id": "909411",
+    "sv": "Sektionen f\u00f6r f\u00f6rvaltningsjuridik",
+    "en": "Section of Administrative Law",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "254": {
+    "id": "909412",
+    "sv": "Gemensamma f\u00f6rvaltningens kansli",
+    "en": "Central University Administration Office",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "255": {
+    "id": "909413",
+    "sv": "Universitetsledningens stab",
+    "en": "Vice Chancellors Office",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "256": {
+    "id": "909421",
+    "sv": "International Centre",
+    "en": "International Centre",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "257": {
+    "id": "909422",
+    "sv": "Forsknings- och innovationskontoret",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "258": {
+    "id": "909432",
+    "sv": "Redovisningssektionen",
+    "en": "Accounting",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "259": {
+    "id": "909433",
+    "sv": "Upphandlingssektionen",
+    "en": "Procurement",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "260": {
+    "id": "909434",
+    "sv": "Planerings- och uppf\u00f6ljningssektionen",
+    "en": "Planning and Follow-up",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "261": {
+    "id": "909435",
+    "sv": "Sektionen f\u00f6r enhetsgemensamma fr\u00e5gor",
+    "en": "Sektionen f\u00f6r enhetsgemensamma fr\u00e5gor",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "262": {
+    "id": "909436",
+    "sv": "Sektionen f\u00f6r arkiv och registratur",
+    "en": "Records Management section",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "263": {
+    "id": "909437",
+    "sv": "Sektionen f\u00f6r GF ekonomi",
+    "en": "University Administrations Finance",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "264": {
+    "id": "909443",
+    "sv": "Campusservice Medicinareberget",
+    "en": "Campus Service Medicinareberget",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "265": {
+    "id": "909444",
+    "sv": "Campusservice Haga",
+    "en": "Campus Service Haga",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "266": {
+    "id": "909445",
+    "sv": "Campusservice Lorensberg",
+    "en": "Campus Service Lorensberg",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "267": {
+    "id": "909446",
+    "sv": "Campusservice Rosenlund",
+    "en": "Campus Service Rosenlund",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "268": {
+    "id": "909449",
+    "sv": "Utvecklingsstab",
+    "en": "Utvecklingsstab",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "269": {
+    "id": "909453",
+    "sv": "Sektionen f\u00f6r s\u00e4kerhet",
+    "en": "Department of security",
+    "parentid": "90",
+    "parentsv": "Gemensamma f\u00f6rvaltningen",
+    "parenten": "University Administration"
+  },
+  "270": {
+    "id": "98",
+    "sv": "\u00d6vrigt",
+    "en": ""
+  },
+  "271": {
+    "id": "99",
+    "sv": "Chefskrets",
+    "en": ""
+  },
+  "272": {
+    "id": "DSAI",
+    "sv": "Data Science och AI",
+    "en": "Data Science and AI",
+    "parentid": "DS"
+  },
+  "273": {
+    "id": "FM",
+    "sv": "Formella metoder",
+    "en": "Formal Methods"
+  },
+  "274": {
+    "id": "FP",
+    "sv": "Funktionell programmering",
+    "en": "Functional Programming"
+  },
+  "275": {
+    "id": "IxD",
+    "sv": "Interaktionsdesign",
+    "en": "Interaction Design",
+    "parentid": "Ix"
+  },
+  "276": {
+    "id": "LT",
+    "sv": "Logik och typer",
+    "en": "Logic and Types"
+  },
+  "277": {
+    "id": "NS",
+    "sv": "N\u00e4tverk och system",
+    "en": "Network and Systems"
+  },
+  "278": {
+    "id": "SE1",
+    "sv": "Software Engineering 1",
+    "en": "Software Engineering 1",
+    "parentid": "SE"
+  },
+  "279": {
+    "id": "SE2",
+    "sv": "Software Engineering 2",
+    "en": "Software Engineering 2",
+    "parentid": "SE"
+  }
+}
